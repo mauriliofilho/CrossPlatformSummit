@@ -1,7 +1,8 @@
 repo_name: mauriliofilho/CrossPlatformSummit
 report_id: 1ab72a8969718917eace1201c1e0213e
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T15:50:48+00:00'
+timestamp: '2024-01-05T08:31:37+00:00'
 requested_by: mauriliofilho
 provider: github
 branch: master
@@ -17,7 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: github.com/mauriliofilho/CrossPlatformSummit/blob/master/CrossPlatformSummit.Core/CrossPlatformSummit.Core.csproj
+  detection_source_url: https://github.com/mauriliofilho/CrossPlatformSummit/blob/master/CrossPlatformSummit.Core/CrossPlatformSummit.Core.csproj
   detection_source: CrossPlatformSummit.Core/CrossPlatformSummit.Core.csproj
   last_updated_by: Alexandre Zollinger Chohfi
   last_updated_on: 2015-09-03 12:48:15.000000000 Z
@@ -30,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/mauriliofilho/CrossPlatformSummit
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -41,6 +43,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/mauriliofilho/CrossPlatformSummit/blob/master/Droid/packages.config
   detection_source: Droid/packages.config
   last_updated_by: Angelo Luis
   last_updated_on: 2015-08-25 21:42:41.000000000 Z
@@ -52,6 +55,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/211/RDXWoY7W.png
+  detection_source_url: https://github.com/mauriliofilho/CrossPlatformSummit/blob/master/Droid/packages.config
   detection_source: Droid/packages.config
   last_updated_by: Alexandre Zollinger Chohfi
   last_updated_on: 2015-09-03 12:48:15.000000000 Z
@@ -63,6 +67,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/2459/RDXWoY7W_400x400.png
+  detection_source_url: https://github.com/mauriliofilho/CrossPlatformSummit/blob/master/CrossPlatformSummit.WinPhone/packages.config
   detection_source: CrossPlatformSummit.WinPhone/packages.config
   last_updated_by: Alexandre Zollinger Chohfi
   last_updated_on: 2015-09-03 12:48:15.000000000 Z
@@ -74,6 +79,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mauriliofilho/CrossPlatformSummit
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -83,6 +89,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/mauriliofilho/CrossPlatformSummit/blob/master/Droid/packages.config
   detection_source: Droid/packages.config
   last_updated_by: Angelo Luis
   last_updated_on: 2015-08-25 21:42:41.000000000 Z
@@ -95,6 +102,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/mauriliofilho/CrossPlatformSummit/blob/master/CrossPlataformSummit.sln
   detection_source: CrossPlataformSummit.sln
   last_updated_by: Alexandre Zollinger Chohfi
   last_updated_on: 2015-09-03 12:48:15.000000000 Z
@@ -107,7 +115,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13641/default_68f579b2fdb37f974ffe5edb6e34476d1305c023.png
-  detection_source_url: github.com/mauriliofilho/CrossPlatformSummit/blob/master/CrossPlatformSummit.WinPhone/packages.config
+  detection_source_url: https://github.com/mauriliofilho/CrossPlatformSummit/blob/master/CrossPlatformSummit.WinPhone/packages.config
   detection_source: CrossPlatformSummit.WinPhone/packages.config
   last_updated_by: Alexandre Zollinger Chohfi
   last_updated_on: 2015-09-03 12:48:15.000000000 Z
@@ -121,7 +129,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12934/default_d871263d8798790404638a4d3692cc70b6389166.png
-  detection_source_url: github.com/mauriliofilho/CrossPlatformSummit/blob/master/Droid/packages.config
+  detection_source_url: https://github.com/mauriliofilho/CrossPlatformSummit/blob/master/Droid/packages.config
   detection_source: Droid/packages.config
   last_updated_by: Alexandre Zollinger Chohfi
   last_updated_on: 2015-09-03 12:48:15.000000000 Z
@@ -135,7 +143,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12873/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
-  detection_source_url: github.com/mauriliofilho/CrossPlatformSummit/blob/master/CrossPlatformSummit.WinPhone/packages.config
+  detection_source_url: https://github.com/mauriliofilho/CrossPlatformSummit/blob/master/CrossPlatformSummit.WinPhone/packages.config
   detection_source: CrossPlatformSummit.WinPhone/packages.config
   last_updated_by: Alexandre Zollinger Chohfi
   last_updated_on: 2015-09-03 12:48:15.000000000 Z
